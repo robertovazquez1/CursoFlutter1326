@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:vazquezcurso/widgets/card.dart';
 import 'package:vazquezcurso/widgets/dialogo_acerca_de.dart';
 
 const Color darkBlue = Color(0xFF12202F);
