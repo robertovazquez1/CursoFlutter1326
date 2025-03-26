@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:vazquezcurso/widgets/card.dart';
+import 'package:vazquezcurso/widgets/dialogo_acerca_de.dart';
 
 const Color darkBlue = Color(0xFF12202F);
 
@@ -19,7 +20,7 @@ class MiTarjeta extends StatelessWidget {
           title: const Text('Flutter Vazquez'),
           centerTitle: true,
         ),
-        body: const LaTarjeta(),
+        body: const DialogoAcercaDe(),
       ),
     );
   }
