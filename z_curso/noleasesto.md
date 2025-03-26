@@ -1,6 +1,7 @@
 ## Card Example
-![card](Tarjeta aca bien perrona juejuejuejuejuekwiughefgophefgouejhdpriwqhfpodabfÃ±kwqsahcbÃ±kljsfhd.PNG)
+![card](Tarjeta_aca_bien_perrona_juejuejuejuejuekwiughefgophefgouejhdpriwqhfpodabfÃ±kwqsahcbÃ±kljsfhd.PNG)
 
 ## About Example
-![card](Acerca de.PNG)
+![card](Acerca_de.PNG)
+
 ![card](Legal.PNG)
